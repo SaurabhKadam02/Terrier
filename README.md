@@ -1,2 +1,0 @@
-# Terrier
-Dog fetch information
